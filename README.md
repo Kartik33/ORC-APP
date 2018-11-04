@@ -2,19 +2,18 @@
 Uploading this project for academic purpose
 App folder consist of my work done on OCR I have mentioned in resume 
 
-Sorry , But due to the involvement of the other peron in developing this project with me I am not able to share the full project. 
+Sorry , But due to the involvement of the other person in developing this project with me I am not able to share the full project. 
 
-I hope you may get an idea of my skilss through the files I am sharing with you 
+I hope you may get an idea of my skills through the files I am sharing with you 
 
 Structure of the program :
 
 app
-                src
-                   helper
-	    ouptput
-                   image
-                   mask
-                 model
+  src
+     helpe
+  ouptput
+     image
+      mask
 
 src file contains the ipython notebook 
 helper contains the files with helper fucntions in python format 
