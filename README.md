@@ -27,9 +27,9 @@ helper contains the files with helper fucntions in python format
 
 output contains two folders  
 
-	image : contains image to be processed 
+	image : contains raw images
 	
-	mask : contains the output mask of the image after processed from the model 
+	mask : contains the output mask of the image after processing from the model 
 	
 
 model can be downloaded here from the link given below 
