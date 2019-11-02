@@ -5,8 +5,6 @@ App folder consist of my work done on OCR I have mentioned in resume
 
 Sorry , But due to the involvement of the other person in developing this project with me I am not able to share the full project. 
 
-I hope you may get an idea of my skills through the files I am sharing with you 
-
 Structure of the program :
 
 app
