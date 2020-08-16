@@ -11,8 +11,8 @@ app
 src folder contains the ipython notebook<br>
 ***It can be see in the mask(left image) the model ignores the picture of the man and only captures the text.***
 <p float="left">
-  <img src="https://github.com/Kartik33/ORC-APP/blob/master/app/output/mask/IMG_20180104_142035.jpg" width="100" />
-  <img src="https://github.com/Kartik33/ORC-APP/blob/master/app/output/img/IMG_20180104_142035.jpg" width="100" /> 
+  <img src="https://github.com/Kartik33/ORC-APP/blob/master/app/output/mask/IMG_20180104_142035.jpg" width="250" />
+  <img src="https://github.com/Kartik33/ORC-APP/blob/master/app/output/img/IMG_20180104_142035.jpg" width="250" /> 
 </p>
 
 output contains two folders  
